@@ -1,0 +1,119 @@
+body{padding: 0 auto; margin:0 auto;}
+.header_combined {
+	float: left;
+	width: 100%;
+	background: url(../image/slide01.jpg);
+	background-repeat: no-repeat;
+	
+}
+.logo {
+	color: white;
+}
+
+
+.herosection {
+float: left;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	font-family: "Open Sans", sans-serif;
+}
+.herosection h2 {
+	font-size: 150px;
+	font-weight: 300;
+	
+	
+}
+.herosection p {
+	font-weight: 300;
+	text-transform: uppercase;
+	padding: 3em 0em 0em 0em;
+}
+	
+.wrapper {
+	float: left;
+	width: 100%;
+	padding: 3em 0em 3em 0em;
+	
+	padding: 6rem 0 3rem 0;
+	position: relative;
+	margin: 0;
+}
+.wrapper content {
+	font-size: 15px;
+	font-family: open sans;
+	font-weight: 200;
+	color: #999999;
+}
+.wrapper h2 {
+	text-align: center;
+	color: black;
+	font-weight: 300;
+}
+.wrapper p {
+	text-align: center;
+	color: #9999;
+	padding: 1em 3em 1em 3em;
+}
+.wrapper1 {
+	float: left;
+	width: 50%;
+	padding: 6rem 0 3rem 0;
+	margin: 0;
+}
+.wrapper2 {
+	float: right;
+	width: 50%;
+	padding: 6rem 0 3rem 0;
+}
+ .inner {
+	font-size: ;
+	margin: auto;
+	width: 80rem;
+	font-family: open sans;
+	font-weight: 200;
+	text-align: center;
+}
+.inner p {
+	color: #999;
+}
+.inner h2 {
+	font-size: 35px;
+	font-weight: 200;
+	color: black;
+}
+.images {
+	float: left;
+	width: 100%;
+	padding: 6rem 0 3rem 0;
+	margin: auto;
+}
+
+.images1 {
+	padding: 0em 0em 1em 3em;
+	margin: auto;
+	position: relative;
+}
+.images2 {
+	padding: 0em 0em 1em 3em;
+	margin: auto;
+	position: relative;
+}
+.foot {
+	background: ;
+	padding: 4rem 0 2rem 0;
+	text-align: center;
+}
+.icons li {
+	display: inline;
+}
+.container {
+	cursor: default;
+	list-style: none;
+	padding-left: 0;
+}
+.icons {
+	cursor: default;
+	list-style: none;
+	padding-left: 0;
+}
